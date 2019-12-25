@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>https://blog.jihuiweb.com/2018/12/29/category/java/mybatis-sql-problem/</loc>
+    <lastmod>2019-06-24T08:22:27.753Z</lastmod>
+    <data>
+        <display>
+        <title>mybatis sql 需要注意的问题</title>
+        <pubTime>2018-12-29T08:46:00.000Z</pubTime>
+        
+        <tag>mybatis</tag>
+         
+        <tag>sql</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="https://blog.jihuiweb.com/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>https://blog.jihuiweb.com/dynamics/index.html</loc>
+    <lastmod>2019-06-24T08:22:27.753Z</lastmod>
+    <data>
+        <display>
+        <title>2018康乐富年终总结</title>
+        <pubTime>2018-12-27T03:22:12.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.jihuiweb.com/2017/12/02/category/dotnet/https-config/</loc>
+    <lastmod>2019-06-24T08:22:27.752Z</lastmod>
+    <data>
+        <display>
+        <title>https 访问问题</title>
+        <pubTime>2017-12-02T13:01:24.000Z</pubTime>
+        
+        <tag>https</tag>
+         
+        <tag>config</tag>
+         
+         
+           
+             
+              <breadCrumb title="dotnet" url="https://blog.jihuiweb.com/categories/dotnet/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://blog.jihuiweb.com/2017/12/02/category/java/filtering-of-sensitive-words/</loc>
+    <lastmod>2019-06-24T08:22:27.752Z</lastmod>
+    <data>
+        <display>
+        <title>集成敏感词过滤</title>
+        <pubTime>2017-12-02T13:01:00.000Z</pubTime>
+        
+        <tag>过滤</tag>
+         
+        <tag>敏感词</tag>
+         
+         
+           
+             
+              <breadCrumb title="java" url="https://blog.jihuiweb.com/categories/java/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
