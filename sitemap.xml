@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xxk.link/photos/index.html</loc>
+    
+    <lastmod>2021-09-04T15:09:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxk.link/about/index.html</loc>
+    
+    <lastmod>2021-09-04T15:03:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxk.link/dynamics/index.html</loc>
+    
+    <lastmod>2021-09-04T15:00:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xxk.link/2020/10/30/category/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E7%BB%B4/flarum%20%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
     
     <lastmod>2021-09-04T06:33:48.000Z</lastmod>
@@ -269,27 +290,6 @@
   
   <url>
     <loc>https://xxk.link/2017/12/02/category/dotnet/https-config/</loc>
-    
-    <lastmod>2021-09-04T03:56:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xxk.link/about/index.html</loc>
-    
-    <lastmod>2021-09-04T03:56:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xxk.link/dynamics/index.html</loc>
-    
-    <lastmod>2021-09-04T03:56:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://xxk.link/photos/index.html</loc>
     
     <lastmod>2021-09-04T03:56:37.000Z</lastmod>
     

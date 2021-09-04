@@ -3,6 +3,22 @@
 
 
     
+    
+    
+  <url>
+    <loc>https://xxk.link/dynamics/index.html</loc>
+    <lastmod>2021-09-04T15:00:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>我的计划</title>
+        <pubTime>2021-09-04T07:10:00.000Z</pubTime>
+        
+         
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>https://xxk.link/2020/10/30/category/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BF%90%E7%BB%B4/flarum%20%E5%AE%89%E8%A3%85%E9%97%AE%E9%A2%98/</loc>
     <lastmod>2021-09-04T06:33:48.000Z</lastmod>
@@ -601,9 +617,9 @@
         <title>生成自定义小程序二维码</title>
         <pubTime>2018-06-16T00:52:05.000Z</pubTime>
         
-        <tag>小程序</tag>
-         
         <tag>二维码</tag>
+         
+        <tag>小程序</tag>
          
          
            
@@ -854,20 +870,4 @@
     </data>
     </url>
 
-    
-    
-  <url>
-    <loc>https://xxk.link/dynamics/index.html</loc>
-    <lastmod>2021-09-04T03:56:37.000Z</lastmod>
-    <data>
-        <display>
-        <title>2018康乐富年终总结</title>
-        <pubTime>2018-12-27T03:22:12.000Z</pubTime>
-        
-         
-        </display>
-    </data>
-    </url>
-
-    
 </urlset>
